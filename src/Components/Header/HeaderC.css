@@ -1,0 +1,10 @@
+header{
+    background-color: rgb(208, 202, 202, 0.5);
+    color: #fff;
+}
+
+.icon-image{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
